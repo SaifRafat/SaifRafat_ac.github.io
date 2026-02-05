@@ -36,6 +36,12 @@ layout: default
         
         {% if page.collection == 'teaching' %}
           <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
+        {% elsif page.status == "published" or page.status == "Published" %}
+          <p><span style="display:inline-block;padding:4px 8px;background:#5cb85c;color:#fff;border-radius:4px;font-weight:600;">Published</span></p>
+        {% elsif page.status == "under review" %}
+          <p><span style="display:inline-block;padding:4px 8px;background:#f0ad4e;color:#fff;border-radius:4px;font-weight:600;">Under review</span></p>
+        {% elsif page.status == "work in progress" %}
+          <p><span style="display:inline-block;padding:4px 8px;background:#5bc0de;color:#fff;border-radius:4px;font-weight:600;">Work in progress</span></p>
         {% elsif page.venue and page.date %}
           <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.date %}
