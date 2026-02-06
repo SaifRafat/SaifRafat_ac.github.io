@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am M. Saifuzzaman Rafat, an aspiring AI researcher with a deep interest in cutting-edge technologies such as computer vision, machine learning, and generative AI. I am currently pursuing my B.Sc. in Computer Science and Engineering at the University of Rajshahi, Bangladesh. I am also working as a Research Assistant at the Center for Research and Innovation (CRI) Lab at the University of Rajshahi, where I contribute to various research projects focused on machine learning and AI applications.
+Hello! I am M. Saifuzzaman Rafat, an aspiring AI researcher with a strong focus on cutting-edge technologies such as computer vision, machine learning, and generative AI. I completed my B.Sc. in Computer Science and Engineering at the University of Rajshahi, Bangladesh, in December 2024. Currently, I am working as a Research Assistant at the Center for Research and Innovation (CRI) Lab at the University of Rajshahi, where I contribute to various research projects in machine learning and AI applications. I am actively seeking Ph.D. opportunities for the upcoming Fall/Summer sessions, aiming to explore new research frontiers and deepen my expertise in AI.
 
 ## Research Interest
 
